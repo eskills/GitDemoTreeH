@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let username = "Dummie User"
+    let username = "Dummie User Changed"
 
     override func viewDidLoad() {
         super.viewDidLoad()
