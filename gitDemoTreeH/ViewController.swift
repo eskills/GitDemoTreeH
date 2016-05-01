@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     let username = "Dummie User Changed"
+    let buttonText = "I say Yes Too"
 
     override func viewDidLoad() {
         super.viewDidLoad()
